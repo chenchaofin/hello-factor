@@ -1,17 +1,18 @@
-# hello
+# Hello
 ![ ](https://img.shields.io/shippable/5444c5ecb904a4b21567b0ff.svg) ![ ](https://img.shields.io/pypi/pyversions/Django.svg) 
 	
-
-
+### 2018年4月24日
+## 文档说明
 - 8个复现因子详见附件 Tamplate_8
 - 10个设计因子详见附件 Tamplate_10
 
-- test_8截图:
+## test.py截图
+- 复现8截图:
 
 ![test_8](https://github.com/chenchaofin/hello-factor/blob/master/test_8_ok.jpg)
 
 
-- test_10截图:
+- 10因子截图:
 
 ![test_8](https://github.com/chenchaofin/hello-factor/blob/master/test_10_ok.jpg)
 
