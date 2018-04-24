@@ -1,5 +1,5 @@
 # Hello
-![ ](https://img.shields.io/shippable/5444c5ecb904a4b21567b0ff.svg) ![ ](https://img.shields.io/pypi/pyversions/Django.svg) 
+![ ](https://img.shields.io/shippable/5444c5ecb904a4b21567b0ff.svg) ![ ](https://github.com/chenchaofin/logistic-regression/blob/master/python-3.6-brightgreen.svg) 
 	
 ### 2018年4月24日
 ## 文档说明
