@@ -5,6 +5,8 @@
 
 test成功截图如下
 
+![test_8](https://github.com/chenchaofin/hello-factor/blob/master/test_8_ok.jpg)
+
 
 
 
