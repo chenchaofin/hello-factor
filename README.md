@@ -1,5 +1,6 @@
 # hello
-![ ](https://img.shields.io/shippable/5444c5ecb904a4b21567b0ff.svg)
+![ ](https://img.shields.io/shippable/5444c5ecb904a4b21567b0ff.svg) ![ ](https://img.shields.io/pypi/pyversions/Django.svg) 
+	
 
 
 - 8个复现因子详见附件 Tamplate_8
